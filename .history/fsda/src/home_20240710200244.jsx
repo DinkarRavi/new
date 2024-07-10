@@ -3,8 +3,7 @@ const Home =(a)=>{
     return (
         <div>
             home
-            <h1>Home{a.a}</h1>
+            <h1>Home</h1>
         </div>
     )
 }
-export default Home

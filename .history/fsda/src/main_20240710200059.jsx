@@ -4,7 +4,7 @@ import App from './App.jsx'
 import './index.css'
 ReactDOM.createRoot(document.getElementById('root')).render(
     <React.StrictMode>
-        <App data='Dinkar'/>
-    </React.StrictMode>
+        <App data='Jay'/>
+    </react.StrictMode>
 
 )

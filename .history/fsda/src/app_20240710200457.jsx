@@ -7,9 +7,8 @@ return (
     <div>
         <h1>hey {user}</h1>
         <home/>
-        <p class="d">Hello</p>
     </div>
 )
-
+<p  class>Hello</p>
 }
 export default App

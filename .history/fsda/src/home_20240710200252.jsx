@@ -7,4 +7,3 @@ const Home =(a)=>{
         </div>
     )
 }
-export default Home
